@@ -1,7 +1,51 @@
 # DataVisFinal
+
 Final Repository For Data Vis Final
 
 
-This figure illustrated the breakdown of wealth in the United States over time. Each color represents a portion of the population, denoted by their percentile when sorted by income. The bars are representative of all of the income earned in the country throughout that year, with each "class" being assigned a section proportional to their share of this income. You can hover over each bar segment to display the exact portion of total income it represents
+# Links:
 
-We can see that over time, the portion of income being received by the top 10% of the population is increasing gradually while the bottom 50% decreases. In addition, we can see that the top 0.1% represent around 1-1.5% of the total income (10-15x overrepresented) while the bottom 50% represent only around 20% of the total income (2.5x underrepresented).
+Website Link: https://jvslone.github.io/DataVisFinal/
+
+Github Link: https://github.com/jvslone/DataVisFinal 
+
+Tableau Link: https://public.tableau.com/app/profile/dylan.villamizar/viz/.../Dashboard1 
+
+
+# Files:
+
+“/Data”:
+Folder containing all data files collected
+
+“animated_sankey.html”:
+The animated sankey chart as output by Plotly
+
+“Average Annual Salary by Wage Group (1951-2023).twbx”:
+The Tableau workbook for the incomes by class plot.
+
+“bump_plot.html”:
+The bump plot as output by Plotly
+
+“FoodCPI.png”:
+The plot of food prices as output by Matplotlib
+
+“HomeRentPrices.ipynb”:
+A Jupyter notebook analyzing home price trends
+
+“HouseholdGroceryInflation.png”:
+The plot of Inflation as output by Matplotlib
+
+“income_dist_ipums.html”:
+The stacked bar chart as output by Plotly
+
+“index.html”:
+The webpage’s HTML file
+
+“matplotlib_figs.ipynb”:
+A Jupyter notebook used to create the 2 Matplotlib plots
+
+“plotly_figs.ipynb”:
+A Jupyter notebook used to create the 3 Plotly plots
+
+“styles.css”:
+The webpage's css file
